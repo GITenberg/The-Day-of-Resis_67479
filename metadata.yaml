@@ -5,12 +5,17 @@ contributor:
     agent_name: Parkhurst, Harry L. V.
     gutenberg_agent_id: '54287'
     url: http://www.gutenberg.org/2009/agents/54287
+covers:
+- cover_type: archival
+  image_path: 67479-h/images/cover.jpg
 creator:
   author:
     agent_name: Mentor, Lillian Frances
     gutenberg_agent_id: '54078'
     url: http://www.gutenberg.org/2009/agents/54078
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67479#The-Day-of-Resis
 gutenberg_issued: '2022-02-23'
 identifiers:
   gutenberg: '67479'
